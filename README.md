@@ -1,6 +1,6 @@
 # Hey, I'm Akash Kumar 👋
 
-**Senior / Lead Software Engineer based in Zurich, Switzerland.**  
+**Senior / Lead Software Engineer based in Zurich, Switzerland.**
 I build things, break things, and occasionally fix them.
 
 ---
@@ -62,6 +62,7 @@ I build things, break things, and occasionally fix them.
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 **Ways of working**
 
@@ -73,7 +74,6 @@ REST APIs &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; SOLID & GRASP &nbsp;·&nbs
 
 - 🏗️ &nbsp;Building and scaling web platforms and backend services
 - 🧑‍🏫 &nbsp;Mentoring engineers and apprentices — including guiding them through their final projects
-- 🤖 &nbsp;Maintaining [agent-config](https://github.com/akuma91/agent-config) — one project-agnostic source of truth for how AI coding agents work across my repos, serving Claude Code and Codex from the same files
 - 🎛️ &nbsp;Side projects that mostly orbit music: desktop and mobile tooling for audio, metadata and song ideas, in TypeScript, Dart and Swift
 - 📐 &nbsp;A recurring soft spot for refactoring toward SOLID, architecture diagrams and docs that stay honest
 - 📚 &nbsp;Poking at Rust, .NET, C# and Java on the side, mostly out of curiosity
