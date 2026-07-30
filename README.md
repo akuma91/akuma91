@@ -80,6 +80,8 @@ REST APIs &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; SOLID & GRASP &nbsp;·&nbs
 
 Away from the keyboard I'm a family guy first, and I make music — which is probably why so many of my side projects end up pointed at audio.
 
+Fully committed Apple guy, too: Mac, iPhone, iPad, and Apple Music over Spotify. 🍎
+
 > Most of my work lives in private repos, so the contribution graph here is a poor proxy for what I actually do.
 
 ---
