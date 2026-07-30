@@ -79,7 +79,7 @@ REST APIs &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; SOLID & GRASP &nbsp;·&nbs
 - 📐 &nbsp;A soft spot for clean and well-documented codebases
 - 📚 &nbsp;Poking at Rust, .NET, C# and Java on the side
 
-Away from the keyboard I'm a family guy first, and I make music — which is probably why so many of my side projects end up pointed at audio.
+Away from the keyboard I'm a family guy first, and I make music which is why so many of my side projects are related to audio.
 
 Apple guy: Mac, iPhone, iPad, and Apple Music over Spotify. 🍎
 
