@@ -73,8 +73,12 @@ REST APIs &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; SOLID & GRASP &nbsp;·&nbs
 
 - 🏗️ &nbsp;Building and scaling web platforms and backend services
 - 🧑‍🏫 &nbsp;Mentoring engineers and apprentices — including guiding them through their final projects
-- 🔭 &nbsp;Reworking [fakyr.ch](https://fakyr.ch) from Symfony onto a Next.js / Express.js stack
-- 📚 &nbsp;Poking at Spring Boot and ASP.NET on the side, mostly out of curiosity
+- 🤖 &nbsp;Maintaining [agent-config](https://github.com/akuma91/agent-config) — one project-agnostic source of truth for how AI coding agents work across my repos, serving Claude Code and Codex from the same files
+- 🎛️ &nbsp;Side projects that mostly orbit music: desktop and mobile tooling for audio, metadata and song ideas, in TypeScript, Dart and Swift
+- 📐 &nbsp;A recurring soft spot for refactoring toward SOLID, architecture diagrams and docs that stay honest
+- 📚 &nbsp;Poking at Rust, .NET, C# and Java on the side, mostly out of curiosity
+
+Away from the keyboard I'm a family guy first, and I make music — which is probably why so many of my side projects end up pointed at audio.
 
 > Most of my work lives in private repos, so the contribution graph here is a poor proxy for what I actually do.
 
