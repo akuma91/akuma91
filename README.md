@@ -77,7 +77,7 @@ REST APIs &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; SOLID & GRASP &nbsp;·&nbs
 - 🧑‍🏫 &nbsp;Mentoring engineers and apprentices — including guiding them through their final projects
 - 🎛️ &nbsp;Side projects that mostly orbit music: desktop and mobile tooling for audio, metadata and song ideas, as well as web apps in TypeScript, Dart and Swift
 - 📐 &nbsp;A recurring soft spot for refactoring toward SOLID, architecture diagrams and docs that stay honest
-- 📚 &nbsp;Poking at Rust, .NET, C# and Java on the side, mostly out of curiosity
+- 📚 &nbsp;Poking at Rust, .NET, C# and Java on the side
 
 Away from the keyboard I'm a family guy first, and I make music — which is probably why so many of my side projects end up pointed at audio.
 
