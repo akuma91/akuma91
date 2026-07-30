@@ -91,4 +91,4 @@ Apple guy: Mac, iPhone, iPad, and Apple Music over Spotify. 🍎
 
 [![Linktree](https://img.shields.io/badge/-Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/akuma91)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/akuma91)
-[![The music stuff](https://img.shields.io/badge/-Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/thefakyr)
+[![The music stuff](https://img.shields.io/badge/-The%20music%20stuff-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/thefakyr)
