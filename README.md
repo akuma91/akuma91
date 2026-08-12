@@ -74,7 +74,7 @@ REST APIs &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; SOLID & GRASP &nbsp;·&nbs
 ## What I'm up to
 
 - 🏗️ &nbsp;Building and scaling web platforms and backend services
-- 🧑‍🏫 &nbsp;Mentoring engineers and apprentices — including guiding them through their final projects
+- 🧑‍🏫 &nbsp;Mentoring engineers and apprentices including guiding them through their final projects
 - 🎛️ &nbsp;Side projects that mostly orbit music: desktop and mobile tooling for audio, metadata and song ideas, in TypeScript, Dart and Swift as well as several web apps 
 - 📐 &nbsp;A soft spot for clean and well-documented codebases
 - 📚 &nbsp;Poking at Rust, .NET, C# and Java on the side
